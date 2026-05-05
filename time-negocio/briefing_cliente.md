@@ -113,7 +113,7 @@ planilhas Excel sem automação, gerando erros frequentes e retrabalho.
 
 ### Como usar este documento no Claude
 
-1. Crie um novo Project no Claude.ai
+1. Crie um novo Projeto no Codex usando a pasta do time-negocio
 2. Cole o seguinte texto no campo de instruções do Project:
 
 ```
@@ -127,7 +127,7 @@ Idioma: português brasileiro.
 Formato padrão: resumo executivo → dados → análise → recomendações.
 ```
 
-3. Faça upload deste arquivo (`briefing_cliente.md`) e da planilha (`dados_projeto_x.xlsx`)
+3. Verifique se este arquivo (`briefing_cliente.md`) e a planilha (`dados_projeto_x.xlsx`) estão presentes no projeto
 
 ### Perguntas sugeridas para explorar
 
@@ -141,6 +141,10 @@ Formato padrão: resumo executivo → dados → análise → recomendações.
 
 > "A taxa de adoção de 55% preocupa. O que pode estar causando isso e
 >  quais ações o time deveria tomar antes do go-live?"
+>
+
+**Geração do relatório:**
+Adicione as skills de documentos (word) e apresentações (powerpoint)
 
 **Geração do relatório:**
 > "Gera um relatório executivo de uma página para apresentar ao cliente
