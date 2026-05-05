@@ -37,20 +37,20 @@ modulo-05-handson/
 
 1. Abra o Codex e conecte esta pasta (`time-ti/`) como pasta do projeto
 2. Leia o `AGENTS.md` — ele define o objetivo, entradas e saída esperada
-3. Peça ao agente um **plano** antes de qualquer implementação
+3. Crie o PRD e as SPECs e um (**plano**) antes de qualquer implementação
 4. Revise o plano com o grupo e autorize
 5. Acompanhe a implementação — commite cada etapa
 6. Valide o resultado contra o `AGENTS.md`
 
-**Entregável:** arquivo `relatorio_falhas.md` gerado automaticamente pelo agente
+**Entregável:** arquivo `relatorio_falhas.md` gerado automaticamente pelo agente seguindo os requisitos da atividade
 
 ---
 
 ## Time de Negócios — O que fazer
 
-**Ferramenta:** Claude.ai (Projects) ou Cowork
+**Ferramenta:** Claude.ai (Projects) ou Cowork ou Codex
 
-1. Crie um novo Project no Claude.ai
+1. Crie um novo Project no Claude.ai/Cowork/Codex
 2. Configure o contexto do Project (instruções estão no `briefing_cliente.md`)
 3. Faça upload dos dois arquivos da pasta `time-negocio/`
 4. Faça as perguntas de análise sugeridas no `briefing_cliente.md`
