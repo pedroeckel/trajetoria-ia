@@ -53,6 +53,12 @@ resumo executivo (seção 1) de forma mais natural e orientada ao gestor.
 
 ## Como começar
 Antes de escrever qualquer código, apresente um plano detalhado com:
+- Crie um PRD (Product Requirements Document) para este projeto, detalhando:
+-- Objetivo do projeto
+-- Escopo e entregáveis
+-- Requisitos técnicos e de negócios
+
+Depois de aprovado o PRD, apresente uma SPEC (Specification Document) detalhada, incluindo:
 - Quais arquivos serão criados
 - Estrutura do código (funções principais)
 - Como cada seção do relatório será calculada
