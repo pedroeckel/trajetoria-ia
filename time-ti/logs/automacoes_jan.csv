@@ -1,0 +1,734 @@
+data_execucao,nome_automacao,cliente,status,tipo_erro,duracao_segundos,impacto_horas
+2026-01-01 06:38:20,conciliacao_bancaria,Construtora Horizonte,falha,timeout_conexao,49,0.91
+2026-01-01 08:37:27,relatorio_mensal_clientes,Construtora Horizonte,sucesso,,22,0.0
+2026-01-01 08:54:14,importacao_nf_fiscal,Logística Express,sucesso,,31,0.0
+2026-01-01 09:01:47,geracao_proposta_comercial,Distribuidora Sul,sucesso,,14,0.0
+2026-01-01 09:55:40,geracao_proposta_comercial,Varejo Online SA,sucesso,,20,0.0
+2026-01-01 10:08:42,conciliacao_bancaria,Indústria Metalplas,falha,servidor_indisponivel,70,1.41
+2026-01-01 10:15:47,atualizacao_cadastro_clientes,Indústria Metalplas,sucesso,,45,0.0
+2026-01-01 10:23:48,envio_email_cobranca,Indústria Metalplas,sucesso,,41,0.0
+2026-01-01 11:23:22,sincronizacao_crm,Clínica Bem Estar,sucesso,,12,0.0
+2026-01-01 11:34:46,sincronizacao_crm,Distribuidora Sul,sucesso,,25,0.0
+2026-01-01 11:44:27,exportacao_dados_erp,Farmácia Saúde Total,falha,timeout_conexao,100,0.53
+2026-01-01 12:41:31,monitoramento_sla,Clínica Bem Estar,sucesso,,24,0.0
+2026-01-01 12:45:04,relatorio_mensal_clientes,Clínica Bem Estar,sucesso,,26,0.0
+2026-01-01 12:59:34,sincronizacao_crm,Clínica Bem Estar,sucesso,,31,0.0
+2026-01-01 13:43:20,relatorio_mensal_clientes,Distribuidora Sul,sucesso,,28,0.0
+2026-01-01 13:56:36,importacao_nf_fiscal,Construtora Horizonte,sucesso,,12,0.0
+2026-01-01 14:49:41,exportacao_dados_erp,Construtora Horizonte,sucesso,,18,0.0
+2026-01-01 18:06:22,exportacao_dados_erp,Indústria Metalplas,sucesso,,10,0.0
+2026-01-01 18:17:04,sincronizacao_crm,Indústria Metalplas,sucesso,,28,0.0
+2026-01-01 19:14:28,envio_relatorio_gerencial,Farmácia Saúde Total,sucesso,,8,0.0
+2026-01-01 19:38:04,monitoramento_sla,Logística Express,sucesso,,37,0.0
+2026-01-01 19:57:37,monitoramento_sla,Farmácia Saúde Total,sucesso,,16,0.0
+2026-01-01 20:00:46,geracao_proposta_comercial,Indústria Metalplas,sucesso,,40,0.0
+2026-01-01 20:34:07,monitoramento_sla,Construtora Horizonte,sucesso,,31,0.0
+2026-01-01 20:57:33,conciliacao_bancaria,Construtora Horizonte,falha,timeout_conexao,11,0.31
+2026-01-01 22:16:35,relatorio_mensal_clientes,Clínica Bem Estar,sucesso,,42,0.0
+2026-01-01 22:31:05,relatorio_mensal_clientes,Varejo Online SA,sucesso,,18,0.0
+2026-01-01 22:38:01,atualizacao_cadastro_clientes,Distribuidora Sul,sucesso,,42,0.0
+2026-01-02 07:00:21,envio_email_cobranca,Clínica Bem Estar,sucesso,,18,0.0
+2026-01-02 08:26:42,envio_relatorio_gerencial,Indústria Metalplas,sucesso,,24,0.0
+2026-01-02 08:56:15,exportacao_dados_erp,Farmácia Saúde Total,falha,credencial_expirada,109,2.18
+2026-01-02 09:03:25,exportacao_dados_erp,Varejo Online SA,sucesso,,23,0.0
+2026-01-02 09:03:41,atualizacao_cadastro_clientes,Varejo Online SA,falha,servidor_indisponivel,14,2.58
+2026-01-02 09:04:34,sincronizacao_crm,Indústria Metalplas,sucesso,,30,0.0
+2026-01-02 09:42:27,exportacao_dados_erp,Logística Express,sucesso,,11,0.0
+2026-01-02 10:16:07,importacao_nf_fiscal,Clínica Bem Estar,sucesso,,25,0.0
+2026-01-02 11:03:32,importacao_nf_fiscal,Varejo Online SA,falha,erro_formato_dados,79,2.11
+2026-01-02 11:24:00,monitoramento_sla,Farmácia Saúde Total,sucesso,,37,0.0
+2026-01-02 11:26:31,conciliacao_bancaria,Distribuidora Sul,sucesso,,11,0.0
+2026-01-02 12:12:34,conciliacao_bancaria,Distribuidora Sul,sucesso,,25,0.0
+2026-01-02 12:18:13,relatorio_mensal_clientes,Indústria Metalplas,sucesso,,11,0.0
+2026-01-02 12:42:45,exportacao_dados_erp,Distribuidora Sul,sucesso,,16,0.0
+2026-01-02 13:04:57,relatorio_mensal_clientes,Varejo Online SA,sucesso,,40,0.0
+2026-01-02 13:17:42,conciliacao_bancaria,Distribuidora Sul,sucesso,,44,0.0
+2026-01-02 13:25:07,envio_relatorio_gerencial,Distribuidora Sul,sucesso,,10,0.0
+2026-01-02 13:37:14,relatorio_mensal_clientes,Construtora Horizonte,sucesso,,11,0.0
+2026-01-02 15:27:44,atualizacao_cadastro_clientes,Clínica Bem Estar,sucesso,,17,0.0
+2026-01-02 15:29:20,importacao_nf_fiscal,Construtora Horizonte,sucesso,,44,0.0
+2026-01-02 15:38:13,exportacao_dados_erp,Distribuidora Sul,sucesso,,24,0.0
+2026-01-02 16:03:03,envio_relatorio_gerencial,Logística Express,sucesso,,41,0.0
+2026-01-02 20:15:55,importacao_nf_fiscal,Logística Express,sucesso,,43,0.0
+2026-01-02 21:15:50,conciliacao_bancaria,Varejo Online SA,sucesso,,14,0.0
+2026-01-02 22:00:42,atualizacao_cadastro_clientes,Farmácia Saúde Total,sucesso,,14,0.0
+2026-01-02 22:31:16,relatorio_mensal_clientes,Construtora Horizonte,sucesso,,25,0.0
+2026-01-03 06:19:18,sincronizacao_crm,Logística Express,sucesso,,28,0.0
+2026-01-03 07:06:38,monitoramento_sla,Farmácia Saúde Total,sucesso,,28,0.0
+2026-01-03 07:19:23,relatorio_mensal_clientes,Farmácia Saúde Total,sucesso,,23,0.0
+2026-01-03 07:53:23,envio_relatorio_gerencial,Indústria Metalplas,sucesso,,16,0.0
+2026-01-03 07:54:30,sincronizacao_crm,Distribuidora Sul,sucesso,,37,0.0
+2026-01-03 08:18:32,envio_relatorio_gerencial,Farmácia Saúde Total,sucesso,,23,0.0
+2026-01-03 08:29:26,envio_relatorio_gerencial,Distribuidora Sul,sucesso,,32,0.0
+2026-01-03 08:49:17,exportacao_dados_erp,Clínica Bem Estar,sucesso,,42,0.0
+2026-01-03 09:22:49,atualizacao_cadastro_clientes,Varejo Online SA,sucesso,,17,0.0
+2026-01-03 09:46:57,geracao_proposta_comercial,Indústria Metalplas,sucesso,,34,0.0
+2026-01-03 10:51:29,atualizacao_cadastro_clientes,Indústria Metalplas,sucesso,,36,0.0
+2026-01-03 12:23:27,importacao_nf_fiscal,Clínica Bem Estar,sucesso,,28,0.0
+2026-01-03 13:55:10,envio_email_cobranca,Logística Express,falha,erro_formato_dados,97,2.4
+2026-01-03 14:02:45,monitoramento_sla,Construtora Horizonte,sucesso,,42,0.0
+2026-01-03 15:14:51,sincronizacao_crm,Distribuidora Sul,falha,limite_api_atingido,34,1.93
+2026-01-03 16:01:07,geracao_proposta_comercial,Distribuidora Sul,sucesso,,24,0.0
+2026-01-03 16:25:44,geracao_proposta_comercial,Indústria Metalplas,sucesso,,34,0.0
+2026-01-03 17:19:52,sincronizacao_crm,Distribuidora Sul,falha,limite_api_atingido,27,1.15
+2026-01-03 18:43:47,envio_email_cobranca,Indústria Metalplas,sucesso,,33,0.0
+2026-01-03 19:14:11,atualizacao_cadastro_clientes,Logística Express,falha,servidor_indisponivel,34,0.58
+2026-01-03 19:35:00,importacao_nf_fiscal,Construtora Horizonte,sucesso,,17,0.0
+2026-01-03 19:38:32,importacao_nf_fiscal,Logística Express,sucesso,,20,0.0
+2026-01-03 19:51:42,sincronizacao_crm,Farmácia Saúde Total,falha,credencial_expirada,92,1.3
+2026-01-03 20:28:28,sincronizacao_crm,Indústria Metalplas,sucesso,,18,0.0
+2026-01-03 21:25:15,envio_email_cobranca,Clínica Bem Estar,sucesso,,14,0.0
+2026-01-04 06:47:34,relatorio_mensal_clientes,Farmácia Saúde Total,sucesso,,12,0.0
+2026-01-04 06:54:56,envio_relatorio_gerencial,Logística Express,sucesso,,30,0.0
+2026-01-04 07:22:34,monitoramento_sla,Clínica Bem Estar,sucesso,,40,0.0
+2026-01-04 07:48:01,sincronizacao_crm,Distribuidora Sul,sucesso,,17,0.0
+2026-01-04 08:41:27,envio_email_cobranca,Varejo Online SA,sucesso,,11,0.0
+2026-01-04 09:44:49,geracao_proposta_comercial,Varejo Online SA,sucesso,,15,0.0
+2026-01-04 10:39:34,relatorio_mensal_clientes,Logística Express,sucesso,,9,0.0
+2026-01-04 10:45:13,importacao_nf_fiscal,Logística Express,sucesso,,42,0.0
+2026-01-04 11:19:06,envio_relatorio_gerencial,Construtora Horizonte,sucesso,,44,0.0
+2026-01-04 13:08:30,importacao_nf_fiscal,Indústria Metalplas,sucesso,,37,0.0
+2026-01-04 13:17:21,exportacao_dados_erp,Indústria Metalplas,falha,servidor_indisponivel,22,1.3
+2026-01-04 13:31:14,geracao_proposta_comercial,Logística Express,sucesso,,32,0.0
+2026-01-04 14:20:54,sincronizacao_crm,Varejo Online SA,sucesso,,25,0.0
+2026-01-04 14:24:20,sincronizacao_crm,Logística Express,sucesso,,32,0.0
+2026-01-04 14:39:51,atualizacao_cadastro_clientes,Varejo Online SA,sucesso,,35,0.0
+2026-01-04 14:48:53,monitoramento_sla,Farmácia Saúde Total,sucesso,,38,0.0
+2026-01-04 14:49:23,envio_email_cobranca,Indústria Metalplas,sucesso,,15,0.0
+2026-01-04 15:48:24,monitoramento_sla,Indústria Metalplas,sucesso,,42,0.0
+2026-01-04 16:00:54,monitoramento_sla,Varejo Online SA,sucesso,,35,0.0
+2026-01-04 16:42:43,monitoramento_sla,Clínica Bem Estar,sucesso,,37,0.0
+2026-01-04 17:40:57,conciliacao_bancaria,Clínica Bem Estar,falha,servidor_indisponivel,25,1.68
+2026-01-04 18:25:45,sincronizacao_crm,Construtora Horizonte,sucesso,,23,0.0
+2026-01-04 20:15:48,conciliacao_bancaria,Indústria Metalplas,sucesso,,32,0.0
+2026-01-04 20:16:48,sincronizacao_crm,Varejo Online SA,sucesso,,41,0.0
+2026-01-04 20:26:03,sincronizacao_crm,Varejo Online SA,sucesso,,45,0.0
+2026-01-04 21:40:15,geracao_proposta_comercial,Logística Express,sucesso,,26,0.0
+2026-01-04 22:27:53,atualizacao_cadastro_clientes,Logística Express,sucesso,,38,0.0
+2026-01-05 06:31:54,exportacao_dados_erp,Distribuidora Sul,sucesso,,30,0.0
+2026-01-05 06:33:12,importacao_nf_fiscal,Distribuidora Sul,sucesso,,39,0.0
+2026-01-05 07:09:09,envio_relatorio_gerencial,Farmácia Saúde Total,sucesso,,23,0.0
+2026-01-05 08:43:14,geracao_proposta_comercial,Varejo Online SA,sucesso,,45,0.0
+2026-01-05 09:35:48,monitoramento_sla,Indústria Metalplas,sucesso,,22,0.0
+2026-01-05 09:46:12,exportacao_dados_erp,Construtora Horizonte,sucesso,,19,0.0
+2026-01-05 11:35:04,envio_email_cobranca,Construtora Horizonte,sucesso,,38,0.0
+2026-01-05 12:13:47,conciliacao_bancaria,Farmácia Saúde Total,sucesso,,41,0.0
+2026-01-05 12:27:07,atualizacao_cadastro_clientes,Distribuidora Sul,sucesso,,25,0.0
+2026-01-05 12:40:13,geracao_proposta_comercial,Clínica Bem Estar,sucesso,,23,0.0
+2026-01-05 13:44:30,conciliacao_bancaria,Logística Express,sucesso,,13,0.0
+2026-01-05 14:21:17,envio_relatorio_gerencial,Clínica Bem Estar,sucesso,,43,0.0
+2026-01-05 15:00:45,atualizacao_cadastro_clientes,Distribuidora Sul,sucesso,,11,0.0
+2026-01-05 15:02:14,geracao_proposta_comercial,Clínica Bem Estar,sucesso,,37,0.0
+2026-01-05 15:06:53,sincronizacao_crm,Farmácia Saúde Total,sucesso,,19,0.0
+2026-01-05 15:14:25,sincronizacao_crm,Farmácia Saúde Total,sucesso,,31,0.0
+2026-01-05 15:30:30,conciliacao_bancaria,Farmácia Saúde Total,falha,timeout_conexao,9,2.84
+2026-01-05 15:36:39,relatorio_mensal_clientes,Indústria Metalplas,sucesso,,14,0.0
+2026-01-05 15:44:08,conciliacao_bancaria,Construtora Horizonte,sucesso,,44,0.0
+2026-01-05 16:22:44,conciliacao_bancaria,Farmácia Saúde Total,sucesso,,22,0.0
+2026-01-05 21:07:52,importacao_nf_fiscal,Logística Express,sucesso,,44,0.0
+2026-01-05 21:35:33,exportacao_dados_erp,Logística Express,sucesso,,43,0.0
+2026-01-05 22:24:28,conciliacao_bancaria,Farmácia Saúde Total,sucesso,,35,0.0
+2026-01-06 06:48:43,geracao_proposta_comercial,Indústria Metalplas,falha,arquivo_nao_encontrado,99,1.54
+2026-01-06 07:29:05,exportacao_dados_erp,Farmácia Saúde Total,sucesso,,33,0.0
+2026-01-06 08:03:10,geracao_proposta_comercial,Indústria Metalplas,sucesso,,44,0.0
+2026-01-06 08:30:22,monitoramento_sla,Farmácia Saúde Total,sucesso,,14,0.0
+2026-01-06 09:01:40,envio_relatorio_gerencial,Varejo Online SA,sucesso,,18,0.0
+2026-01-06 09:41:53,envio_email_cobranca,Logística Express,sucesso,,26,0.0
+2026-01-06 10:55:04,geracao_proposta_comercial,Varejo Online SA,sucesso,,34,0.0
+2026-01-06 11:21:26,conciliacao_bancaria,Farmácia Saúde Total,sucesso,,33,0.0
+2026-01-06 12:17:35,envio_email_cobranca,Farmácia Saúde Total,sucesso,,39,0.0
+2026-01-06 13:29:35,envio_email_cobranca,Logística Express,sucesso,,40,0.0
+2026-01-06 14:01:05,sincronizacao_crm,Clínica Bem Estar,sucesso,,44,0.0
+2026-01-06 14:32:34,conciliacao_bancaria,Logística Express,falha,timeout_conexao,8,2.27
+2026-01-06 15:28:07,conciliacao_bancaria,Clínica Bem Estar,sucesso,,33,0.0
+2026-01-06 15:35:00,atualizacao_cadastro_clientes,Logística Express,falha,timeout_conexao,110,1.52
+2026-01-06 15:53:37,envio_relatorio_gerencial,Clínica Bem Estar,sucesso,,17,0.0
+2026-01-06 16:59:50,atualizacao_cadastro_clientes,Farmácia Saúde Total,sucesso,,26,0.0
+2026-01-06 20:58:17,envio_email_cobranca,Indústria Metalplas,sucesso,,39,0.0
+2026-01-06 22:23:39,conciliacao_bancaria,Clínica Bem Estar,sucesso,,11,0.0
+2026-01-06 22:45:17,monitoramento_sla,Varejo Online SA,sucesso,,38,0.0
+2026-01-06 22:52:00,atualizacao_cadastro_clientes,Logística Express,sucesso,,20,0.0
+2026-01-07 06:53:42,monitoramento_sla,Farmácia Saúde Total,falha,campo_obrigatorio_vazio,113,2.39
+2026-01-07 07:20:47,conciliacao_bancaria,Clínica Bem Estar,sucesso,,32,0.0
+2026-01-07 07:39:04,sincronizacao_crm,Clínica Bem Estar,sucesso,,26,0.0
+2026-01-07 07:58:38,conciliacao_bancaria,Varejo Online SA,sucesso,,26,0.0
+2026-01-07 08:30:50,geracao_proposta_comercial,Farmácia Saúde Total,sucesso,,33,0.0
+2026-01-07 08:54:21,atualizacao_cadastro_clientes,Logística Express,sucesso,,39,0.0
+2026-01-07 09:15:24,envio_relatorio_gerencial,Farmácia Saúde Total,sucesso,,26,0.0
+2026-01-07 10:40:06,relatorio_mensal_clientes,Farmácia Saúde Total,sucesso,,10,0.0
+2026-01-07 11:04:28,exportacao_dados_erp,Indústria Metalplas,sucesso,,35,0.0
+2026-01-07 11:11:05,envio_relatorio_gerencial,Varejo Online SA,sucesso,,23,0.0
+2026-01-07 11:12:08,atualizacao_cadastro_clientes,Farmácia Saúde Total,sucesso,,25,0.0
+2026-01-07 11:16:58,conciliacao_bancaria,Varejo Online SA,falha,timeout_conexao,114,2.46
+2026-01-07 13:38:51,exportacao_dados_erp,Distribuidora Sul,sucesso,,24,0.0
+2026-01-07 13:47:05,monitoramento_sla,Construtora Horizonte,sucesso,,14,0.0
+2026-01-07 14:29:54,geracao_proposta_comercial,Distribuidora Sul,sucesso,,38,0.0
+2026-01-07 16:55:12,sincronizacao_crm,Indústria Metalplas,sucesso,,34,0.0
+2026-01-07 17:27:09,sincronizacao_crm,Indústria Metalplas,sucesso,,19,0.0
+2026-01-07 17:46:08,importacao_nf_fiscal,Farmácia Saúde Total,sucesso,,34,0.0
+2026-01-07 18:42:50,envio_email_cobranca,Logística Express,sucesso,,16,0.0
+2026-01-07 20:10:44,geracao_proposta_comercial,Construtora Horizonte,falha,timeout_conexao,104,1.06
+2026-01-07 20:16:42,relatorio_mensal_clientes,Varejo Online SA,sucesso,,26,0.0
+2026-01-07 21:22:21,atualizacao_cadastro_clientes,Varejo Online SA,sucesso,,37,0.0
+2026-01-07 21:58:37,envio_email_cobranca,Distribuidora Sul,sucesso,,24,0.0
+2026-01-07 22:37:21,importacao_nf_fiscal,Varejo Online SA,sucesso,,14,0.0
+2026-01-07 22:58:29,relatorio_mensal_clientes,Clínica Bem Estar,sucesso,,17,0.0
+2026-01-08 07:25:17,sincronizacao_crm,Construtora Horizonte,sucesso,,37,0.0
+2026-01-08 08:09:48,sincronizacao_crm,Varejo Online SA,sucesso,,33,0.0
+2026-01-08 08:20:38,envio_email_cobranca,Construtora Horizonte,sucesso,,45,0.0
+2026-01-08 08:42:13,envio_relatorio_gerencial,Construtora Horizonte,falha,arquivo_nao_encontrado,45,2.97
+2026-01-08 09:06:15,atualizacao_cadastro_clientes,Distribuidora Sul,sucesso,,31,0.0
+2026-01-08 09:43:14,conciliacao_bancaria,Construtora Horizonte,sucesso,,43,0.0
+2026-01-08 09:50:44,importacao_nf_fiscal,Varejo Online SA,sucesso,,43,0.0
+2026-01-08 10:00:22,sincronizacao_crm,Indústria Metalplas,sucesso,,19,0.0
+2026-01-08 10:34:16,envio_email_cobranca,Construtora Horizonte,sucesso,,9,0.0
+2026-01-08 12:04:53,atualizacao_cadastro_clientes,Distribuidora Sul,sucesso,,22,0.0
+2026-01-08 12:27:28,sincronizacao_crm,Logística Express,sucesso,,37,0.0
+2026-01-08 14:03:08,monitoramento_sla,Indústria Metalplas,sucesso,,12,0.0
+2026-01-08 15:29:41,relatorio_mensal_clientes,Construtora Horizonte,sucesso,,33,0.0
+2026-01-08 15:41:26,importacao_nf_fiscal,Distribuidora Sul,falha,arquivo_nao_encontrado,7,2.99
+2026-01-08 16:24:38,atualizacao_cadastro_clientes,Farmácia Saúde Total,sucesso,,35,0.0
+2026-01-08 16:49:09,envio_relatorio_gerencial,Construtora Horizonte,sucesso,,17,0.0
+2026-01-08 16:58:39,sincronizacao_crm,Clínica Bem Estar,falha,limite_api_atingido,108,2.75
+2026-01-08 17:05:50,monitoramento_sla,Construtora Horizonte,sucesso,,15,0.0
+2026-01-08 17:06:43,exportacao_dados_erp,Indústria Metalplas,sucesso,,30,0.0
+2026-01-08 19:17:02,exportacao_dados_erp,Distribuidora Sul,sucesso,,23,0.0
+2026-01-08 19:37:47,envio_email_cobranca,Logística Express,sucesso,,39,0.0
+2026-01-08 19:43:06,conciliacao_bancaria,Clínica Bem Estar,sucesso,,12,0.0
+2026-01-08 20:23:43,geracao_proposta_comercial,Indústria Metalplas,sucesso,,31,0.0
+2026-01-08 21:28:49,exportacao_dados_erp,Indústria Metalplas,sucesso,,36,0.0
+2026-01-08 22:14:39,relatorio_mensal_clientes,Clínica Bem Estar,sucesso,,41,0.0
+2026-01-09 06:38:59,geracao_proposta_comercial,Construtora Horizonte,sucesso,,27,0.0
+2026-01-09 07:14:25,envio_relatorio_gerencial,Construtora Horizonte,falha,arquivo_nao_encontrado,41,2.36
+2026-01-09 07:18:38,geracao_proposta_comercial,Farmácia Saúde Total,sucesso,,40,0.0
+2026-01-09 08:09:47,relatorio_mensal_clientes,Construtora Horizonte,sucesso,,21,0.0
+2026-01-09 08:17:28,monitoramento_sla,Logística Express,sucesso,,34,0.0
+2026-01-09 08:27:54,importacao_nf_fiscal,Distribuidora Sul,sucesso,,33,0.0
+2026-01-09 08:56:03,envio_email_cobranca,Distribuidora Sul,sucesso,,11,0.0
+2026-01-09 11:04:32,importacao_nf_fiscal,Indústria Metalplas,sucesso,,30,0.0
+2026-01-09 11:08:24,atualizacao_cadastro_clientes,Clínica Bem Estar,sucesso,,43,0.0
+2026-01-09 12:09:42,conciliacao_bancaria,Distribuidora Sul,sucesso,,30,0.0
+2026-01-09 14:13:48,atualizacao_cadastro_clientes,Construtora Horizonte,sucesso,,15,0.0
+2026-01-09 14:18:20,importacao_nf_fiscal,Construtora Horizonte,sucesso,,35,0.0
+2026-01-09 15:43:43,envio_relatorio_gerencial,Logística Express,sucesso,,27,0.0
+2026-01-09 16:10:51,envio_relatorio_gerencial,Logística Express,sucesso,,31,0.0
+2026-01-09 16:22:00,envio_email_cobranca,Varejo Online SA,sucesso,,33,0.0
+2026-01-09 16:42:07,monitoramento_sla,Farmácia Saúde Total,sucesso,,35,0.0
+2026-01-09 17:04:25,relatorio_mensal_clientes,Logística Express,falha,timeout_conexao,120,2.62
+2026-01-09 17:07:48,geracao_proposta_comercial,Indústria Metalplas,sucesso,,35,0.0
+2026-01-09 17:09:43,conciliacao_bancaria,Construtora Horizonte,falha,credencial_expirada,13,1.44
+2026-01-09 17:51:08,atualizacao_cadastro_clientes,Construtora Horizonte,sucesso,,43,0.0
+2026-01-09 18:26:29,exportacao_dados_erp,Distribuidora Sul,sucesso,,28,0.0
+2026-01-09 19:36:25,monitoramento_sla,Farmácia Saúde Total,sucesso,,9,0.0
+2026-01-09 19:46:06,exportacao_dados_erp,Logística Express,sucesso,,24,0.0
+2026-01-09 22:05:25,geracao_proposta_comercial,Clínica Bem Estar,sucesso,,29,0.0
+2026-01-10 07:26:23,sincronizacao_crm,Logística Express,sucesso,,36,0.0
+2026-01-10 08:11:49,conciliacao_bancaria,Logística Express,sucesso,,45,0.0
+2026-01-10 08:21:06,atualizacao_cadastro_clientes,Clínica Bem Estar,sucesso,,24,0.0
+2026-01-10 08:32:41,envio_email_cobranca,Construtora Horizonte,sucesso,,36,0.0
+2026-01-10 10:09:04,geracao_proposta_comercial,Varejo Online SA,sucesso,,40,0.0
+2026-01-10 10:10:11,envio_relatorio_gerencial,Varejo Online SA,sucesso,,36,0.0
+2026-01-10 10:15:06,envio_email_cobranca,Farmácia Saúde Total,sucesso,,17,0.0
+2026-01-10 10:21:05,envio_relatorio_gerencial,Clínica Bem Estar,sucesso,,30,0.0
+2026-01-10 13:34:15,geracao_proposta_comercial,Varejo Online SA,sucesso,,20,0.0
+2026-01-10 14:37:03,exportacao_dados_erp,Indústria Metalplas,falha,timeout_conexao,62,0.35
+2026-01-10 15:11:13,exportacao_dados_erp,Varejo Online SA,sucesso,,22,0.0
+2026-01-10 15:35:24,exportacao_dados_erp,Varejo Online SA,falha,credencial_expirada,92,2.99
+2026-01-10 15:41:44,monitoramento_sla,Distribuidora Sul,sucesso,,13,0.0
+2026-01-10 16:09:28,importacao_nf_fiscal,Logística Express,sucesso,,27,0.0
+2026-01-10 17:53:18,importacao_nf_fiscal,Clínica Bem Estar,sucesso,,13,0.0
+2026-01-10 18:26:49,exportacao_dados_erp,Clínica Bem Estar,sucesso,,29,0.0
+2026-01-10 20:33:33,envio_relatorio_gerencial,Distribuidora Sul,sucesso,,26,0.0
+2026-01-10 20:43:59,envio_relatorio_gerencial,Clínica Bem Estar,sucesso,,28,0.0
+2026-01-10 20:58:51,envio_relatorio_gerencial,Clínica Bem Estar,sucesso,,38,0.0
+2026-01-10 22:02:42,exportacao_dados_erp,Varejo Online SA,sucesso,,32,0.0
+2026-01-10 22:05:41,monitoramento_sla,Indústria Metalplas,sucesso,,31,0.0
+2026-01-10 22:09:03,conciliacao_bancaria,Construtora Horizonte,sucesso,,29,0.0
+2026-01-10 22:24:29,envio_relatorio_gerencial,Indústria Metalplas,sucesso,,10,0.0
+2026-01-11 06:24:55,conciliacao_bancaria,Construtora Horizonte,sucesso,,31,0.0
+2026-01-11 06:26:03,monitoramento_sla,Indústria Metalplas,sucesso,,32,0.0
+2026-01-11 06:40:32,envio_relatorio_gerencial,Distribuidora Sul,sucesso,,26,0.0
+2026-01-11 07:41:30,exportacao_dados_erp,Indústria Metalplas,sucesso,,41,0.0
+2026-01-11 08:23:14,relatorio_mensal_clientes,Farmácia Saúde Total,sucesso,,29,0.0
+2026-01-11 08:33:23,importacao_nf_fiscal,Indústria Metalplas,sucesso,,40,0.0
+2026-01-11 09:18:05,envio_email_cobranca,Farmácia Saúde Total,sucesso,,40,0.0
+2026-01-11 09:49:37,exportacao_dados_erp,Distribuidora Sul,falha,timeout_conexao,72,2.49
+2026-01-11 10:04:45,conciliacao_bancaria,Construtora Horizonte,falha,credencial_expirada,8,2.69
+2026-01-11 10:08:02,geracao_proposta_comercial,Varejo Online SA,sucesso,,16,0.0
+2026-01-11 10:53:27,importacao_nf_fiscal,Distribuidora Sul,sucesso,,30,0.0
+2026-01-11 11:53:49,conciliacao_bancaria,Clínica Bem Estar,sucesso,,19,0.0
+2026-01-11 13:26:40,envio_relatorio_gerencial,Logística Express,falha,credencial_expirada,110,1.89
+2026-01-11 14:47:01,exportacao_dados_erp,Varejo Online SA,falha,credencial_expirada,33,2.06
+2026-01-11 16:17:07,exportacao_dados_erp,Logística Express,sucesso,,36,0.0
+2026-01-11 16:59:19,atualizacao_cadastro_clientes,Logística Express,sucesso,,42,0.0
+2026-01-11 18:21:11,conciliacao_bancaria,Clínica Bem Estar,sucesso,,41,0.0
+2026-01-11 19:00:39,exportacao_dados_erp,Distribuidora Sul,sucesso,,19,0.0
+2026-01-11 19:10:52,sincronizacao_crm,Varejo Online SA,sucesso,,24,0.0
+2026-01-11 20:29:49,geracao_proposta_comercial,Varejo Online SA,sucesso,,41,0.0
+2026-01-11 21:16:02,sincronizacao_crm,Farmácia Saúde Total,sucesso,,11,0.0
+2026-01-11 21:28:39,relatorio_mensal_clientes,Construtora Horizonte,falha,servidor_indisponivel,30,0.66
+2026-01-11 22:27:07,geracao_proposta_comercial,Distribuidora Sul,sucesso,,11,0.0
+2026-01-12 06:09:54,envio_relatorio_gerencial,Clínica Bem Estar,sucesso,,10,0.0
+2026-01-12 07:04:42,monitoramento_sla,Farmácia Saúde Total,sucesso,,18,0.0
+2026-01-12 07:38:09,conciliacao_bancaria,Farmácia Saúde Total,sucesso,,12,0.0
+2026-01-12 08:46:27,importacao_nf_fiscal,Logística Express,sucesso,,19,0.0
+2026-01-12 08:51:43,exportacao_dados_erp,Clínica Bem Estar,sucesso,,12,0.0
+2026-01-12 09:01:47,envio_email_cobranca,Logística Express,sucesso,,43,0.0
+2026-01-12 09:16:49,geracao_proposta_comercial,Clínica Bem Estar,sucesso,,26,0.0
+2026-01-12 10:04:15,exportacao_dados_erp,Farmácia Saúde Total,sucesso,,44,0.0
+2026-01-12 10:33:23,monitoramento_sla,Farmácia Saúde Total,sucesso,,23,0.0
+2026-01-12 10:39:56,importacao_nf_fiscal,Construtora Horizonte,sucesso,,38,0.0
+2026-01-12 10:56:53,atualizacao_cadastro_clientes,Clínica Bem Estar,sucesso,,16,0.0
+2026-01-12 15:10:10,exportacao_dados_erp,Clínica Bem Estar,falha,timeout_conexao,69,2.58
+2026-01-12 15:20:06,importacao_nf_fiscal,Farmácia Saúde Total,sucesso,,27,0.0
+2026-01-12 15:57:19,envio_email_cobranca,Clínica Bem Estar,sucesso,,19,0.0
+2026-01-12 16:41:04,conciliacao_bancaria,Logística Express,sucesso,,30,0.0
+2026-01-12 17:32:14,importacao_nf_fiscal,Distribuidora Sul,sucesso,,23,0.0
+2026-01-12 19:32:58,relatorio_mensal_clientes,Varejo Online SA,sucesso,,17,0.0
+2026-01-12 20:02:46,exportacao_dados_erp,Indústria Metalplas,sucesso,,25,0.0
+2026-01-12 20:38:45,monitoramento_sla,Distribuidora Sul,sucesso,,30,0.0
+2026-01-12 21:01:23,atualizacao_cadastro_clientes,Indústria Metalplas,sucesso,,43,0.0
+2026-01-12 21:12:07,envio_email_cobranca,Varejo Online SA,falha,campo_obrigatorio_vazio,25,1.47
+2026-01-12 22:26:49,monitoramento_sla,Varejo Online SA,sucesso,,16,0.0
+2026-01-13 07:18:24,envio_relatorio_gerencial,Logística Express,sucesso,,18,0.0
+2026-01-13 07:52:55,relatorio_mensal_clientes,Construtora Horizonte,falha,servidor_indisponivel,85,1.84
+2026-01-13 08:32:41,envio_email_cobranca,Indústria Metalplas,sucesso,,17,0.0
+2026-01-13 10:20:59,envio_relatorio_gerencial,Farmácia Saúde Total,sucesso,,27,0.0
+2026-01-13 10:45:21,conciliacao_bancaria,Indústria Metalplas,sucesso,,40,0.0
+2026-01-13 11:42:39,envio_relatorio_gerencial,Farmácia Saúde Total,sucesso,,44,0.0
+2026-01-13 12:23:35,geracao_proposta_comercial,Construtora Horizonte,sucesso,,36,0.0
+2026-01-13 12:38:32,monitoramento_sla,Indústria Metalplas,sucesso,,10,0.0
+2026-01-13 12:40:35,geracao_proposta_comercial,Distribuidora Sul,sucesso,,42,0.0
+2026-01-13 12:49:36,monitoramento_sla,Indústria Metalplas,sucesso,,39,0.0
+2026-01-13 13:13:37,exportacao_dados_erp,Construtora Horizonte,falha,credencial_expirada,66,2.68
+2026-01-13 13:29:07,geracao_proposta_comercial,Logística Express,sucesso,,14,0.0
+2026-01-13 14:46:23,monitoramento_sla,Farmácia Saúde Total,sucesso,,11,0.0
+2026-01-13 14:52:39,envio_relatorio_gerencial,Construtora Horizonte,sucesso,,14,0.0
+2026-01-13 15:29:04,relatorio_mensal_clientes,Distribuidora Sul,sucesso,,38,0.0
+2026-01-13 15:41:19,conciliacao_bancaria,Distribuidora Sul,sucesso,,33,0.0
+2026-01-13 16:59:36,exportacao_dados_erp,Distribuidora Sul,sucesso,,39,0.0
+2026-01-13 17:25:08,exportacao_dados_erp,Indústria Metalplas,sucesso,,28,0.0
+2026-01-13 18:23:50,exportacao_dados_erp,Indústria Metalplas,sucesso,,17,0.0
+2026-01-13 20:13:21,envio_relatorio_gerencial,Distribuidora Sul,sucesso,,28,0.0
+2026-01-13 21:18:34,relatorio_mensal_clientes,Varejo Online SA,sucesso,,16,0.0
+2026-01-13 22:29:31,geracao_proposta_comercial,Logística Express,falha,limite_api_atingido,53,1.51
+2026-01-14 06:35:59,envio_email_cobranca,Logística Express,sucesso,,38,0.0
+2026-01-14 07:42:57,atualizacao_cadastro_clientes,Distribuidora Sul,sucesso,,11,0.0
+2026-01-14 08:25:42,importacao_nf_fiscal,Distribuidora Sul,sucesso,,38,0.0
+2026-01-14 08:41:36,sincronizacao_crm,Indústria Metalplas,sucesso,,10,0.0
+2026-01-14 09:26:21,conciliacao_bancaria,Construtora Horizonte,sucesso,,16,0.0
+2026-01-14 10:52:43,sincronizacao_crm,Construtora Horizonte,sucesso,,15,0.0
+2026-01-14 11:26:56,envio_email_cobranca,Construtora Horizonte,sucesso,,33,0.0
+2026-01-14 12:01:28,exportacao_dados_erp,Logística Express,falha,servidor_indisponivel,91,1.38
+2026-01-14 12:11:39,monitoramento_sla,Varejo Online SA,sucesso,,28,0.0
+2026-01-14 13:46:03,envio_relatorio_gerencial,Logística Express,sucesso,,32,0.0
+2026-01-14 14:08:06,envio_relatorio_gerencial,Clínica Bem Estar,sucesso,,23,0.0
+2026-01-14 14:18:07,envio_relatorio_gerencial,Clínica Bem Estar,sucesso,,33,0.0
+2026-01-14 14:45:11,relatorio_mensal_clientes,Clínica Bem Estar,sucesso,,26,0.0
+2026-01-14 15:30:52,relatorio_mensal_clientes,Farmácia Saúde Total,sucesso,,15,0.0
+2026-01-14 15:45:13,conciliacao_bancaria,Farmácia Saúde Total,sucesso,,43,0.0
+2026-01-14 16:18:29,atualizacao_cadastro_clientes,Indústria Metalplas,sucesso,,16,0.0
+2026-01-14 16:32:53,atualizacao_cadastro_clientes,Indústria Metalplas,sucesso,,44,0.0
+2026-01-14 16:42:30,atualizacao_cadastro_clientes,Logística Express,sucesso,,19,0.0
+2026-01-14 17:49:51,envio_email_cobranca,Farmácia Saúde Total,falha,timeout_conexao,94,1.2
+2026-01-14 19:37:19,relatorio_mensal_clientes,Indústria Metalplas,sucesso,,45,0.0
+2026-01-14 20:41:16,conciliacao_bancaria,Distribuidora Sul,falha,timeout_conexao,71,2.82
+2026-01-14 20:58:34,exportacao_dados_erp,Indústria Metalplas,sucesso,,24,0.0
+2026-01-14 21:11:59,geracao_proposta_comercial,Construtora Horizonte,falha,limite_api_atingido,75,0.55
+2026-01-14 21:12:15,geracao_proposta_comercial,Indústria Metalplas,sucesso,,27,0.0
+2026-01-14 21:41:12,geracao_proposta_comercial,Farmácia Saúde Total,sucesso,,11,0.0
+2026-01-14 21:55:54,relatorio_mensal_clientes,Clínica Bem Estar,sucesso,,21,0.0
+2026-01-14 22:29:17,sincronizacao_crm,Varejo Online SA,falha,timeout_conexao,23,1.51
+2026-01-15 06:15:13,importacao_nf_fiscal,Construtora Horizonte,sucesso,,36,0.0
+2026-01-15 06:48:01,geracao_proposta_comercial,Logística Express,sucesso,,42,0.0
+2026-01-15 07:15:47,relatorio_mensal_clientes,Logística Express,sucesso,,42,0.0
+2026-01-15 07:35:29,geracao_proposta_comercial,Clínica Bem Estar,falha,servidor_indisponivel,35,0.26
+2026-01-15 07:53:35,atualizacao_cadastro_clientes,Distribuidora Sul,sucesso,,17,0.0
+2026-01-15 07:59:57,importacao_nf_fiscal,Logística Express,falha,erro_formato_dados,55,2.36
+2026-01-15 08:57:32,conciliacao_bancaria,Varejo Online SA,falha,servidor_indisponivel,19,1.39
+2026-01-15 09:11:34,monitoramento_sla,Indústria Metalplas,sucesso,,22,0.0
+2026-01-15 11:20:54,atualizacao_cadastro_clientes,Logística Express,falha,campo_obrigatorio_vazio,29,1.85
+2026-01-15 12:37:04,relatorio_mensal_clientes,Logística Express,sucesso,,12,0.0
+2026-01-15 12:48:55,relatorio_mensal_clientes,Distribuidora Sul,sucesso,,26,0.0
+2026-01-15 13:00:16,monitoramento_sla,Distribuidora Sul,sucesso,,25,0.0
+2026-01-15 13:03:42,importacao_nf_fiscal,Logística Express,sucesso,,33,0.0
+2026-01-15 13:43:48,envio_relatorio_gerencial,Varejo Online SA,sucesso,,41,0.0
+2026-01-15 14:12:59,importacao_nf_fiscal,Construtora Horizonte,sucesso,,34,0.0
+2026-01-15 16:19:37,envio_relatorio_gerencial,Construtora Horizonte,sucesso,,31,0.0
+2026-01-15 17:26:44,atualizacao_cadastro_clientes,Logística Express,sucesso,,21,0.0
+2026-01-15 17:39:14,sincronizacao_crm,Distribuidora Sul,sucesso,,37,0.0
+2026-01-15 18:05:43,atualizacao_cadastro_clientes,Distribuidora Sul,sucesso,,30,0.0
+2026-01-15 19:23:57,monitoramento_sla,Logística Express,sucesso,,32,0.0
+2026-01-15 19:34:24,sincronizacao_crm,Distribuidora Sul,sucesso,,17,0.0
+2026-01-15 20:33:45,exportacao_dados_erp,Construtora Horizonte,sucesso,,15,0.0
+2026-01-15 22:59:57,geracao_proposta_comercial,Clínica Bem Estar,sucesso,,26,0.0
+2026-01-16 07:33:02,importacao_nf_fiscal,Varejo Online SA,sucesso,,8,0.0
+2026-01-16 08:12:51,envio_relatorio_gerencial,Clínica Bem Estar,sucesso,,21,0.0
+2026-01-16 11:40:43,monitoramento_sla,Indústria Metalplas,sucesso,,30,0.0
+2026-01-16 12:03:17,monitoramento_sla,Clínica Bem Estar,sucesso,,10,0.0
+2026-01-16 12:21:41,importacao_nf_fiscal,Logística Express,sucesso,,13,0.0
+2026-01-16 12:59:12,importacao_nf_fiscal,Clínica Bem Estar,sucesso,,38,0.0
+2026-01-16 13:31:35,exportacao_dados_erp,Farmácia Saúde Total,sucesso,,39,0.0
+2026-01-16 13:44:38,sincronizacao_crm,Logística Express,sucesso,,43,0.0
+2026-01-16 13:47:09,relatorio_mensal_clientes,Farmácia Saúde Total,sucesso,,45,0.0
+2026-01-16 15:16:23,atualizacao_cadastro_clientes,Logística Express,sucesso,,38,0.0
+2026-01-16 15:24:11,atualizacao_cadastro_clientes,Logística Express,sucesso,,22,0.0
+2026-01-16 15:54:45,envio_email_cobranca,Varejo Online SA,sucesso,,11,0.0
+2026-01-16 16:36:38,exportacao_dados_erp,Distribuidora Sul,sucesso,,17,0.0
+2026-01-16 16:49:18,monitoramento_sla,Logística Express,sucesso,,30,0.0
+2026-01-16 16:58:13,exportacao_dados_erp,Farmácia Saúde Total,sucesso,,44,0.0
+2026-01-16 18:50:33,exportacao_dados_erp,Clínica Bem Estar,sucesso,,17,0.0
+2026-01-16 19:18:09,sincronizacao_crm,Farmácia Saúde Total,sucesso,,44,0.0
+2026-01-16 19:26:35,atualizacao_cadastro_clientes,Distribuidora Sul,sucesso,,24,0.0
+2026-01-16 21:13:55,exportacao_dados_erp,Farmácia Saúde Total,sucesso,,8,0.0
+2026-01-16 21:29:10,exportacao_dados_erp,Distribuidora Sul,falha,timeout_conexao,72,0.76
+2026-01-16 22:14:26,geracao_proposta_comercial,Farmácia Saúde Total,sucesso,,45,0.0
+2026-01-17 06:40:17,conciliacao_bancaria,Logística Express,falha,timeout_conexao,73,1.44
+2026-01-17 06:44:10,importacao_nf_fiscal,Logística Express,sucesso,,29,0.0
+2026-01-17 07:05:25,monitoramento_sla,Logística Express,sucesso,,11,0.0
+2026-01-17 07:11:59,exportacao_dados_erp,Construtora Horizonte,sucesso,,45,0.0
+2026-01-17 08:17:09,monitoramento_sla,Clínica Bem Estar,sucesso,,17,0.0
+2026-01-17 09:57:33,relatorio_mensal_clientes,Distribuidora Sul,sucesso,,44,0.0
+2026-01-17 10:48:52,monitoramento_sla,Construtora Horizonte,sucesso,,44,0.0
+2026-01-17 10:53:40,sincronizacao_crm,Construtora Horizonte,sucesso,,8,0.0
+2026-01-17 11:06:58,importacao_nf_fiscal,Indústria Metalplas,falha,timeout_conexao,27,1.7
+2026-01-17 12:32:29,exportacao_dados_erp,Construtora Horizonte,sucesso,,38,0.0
+2026-01-17 13:36:53,monitoramento_sla,Clínica Bem Estar,sucesso,,29,0.0
+2026-01-17 14:06:08,importacao_nf_fiscal,Distribuidora Sul,sucesso,,43,0.0
+2026-01-17 16:38:49,envio_relatorio_gerencial,Indústria Metalplas,sucesso,,28,0.0
+2026-01-17 16:55:24,relatorio_mensal_clientes,Farmácia Saúde Total,sucesso,,13,0.0
+2026-01-17 17:17:50,monitoramento_sla,Construtora Horizonte,sucesso,,33,0.0
+2026-01-17 18:05:49,envio_relatorio_gerencial,Farmácia Saúde Total,sucesso,,12,0.0
+2026-01-17 18:20:23,importacao_nf_fiscal,Construtora Horizonte,falha,arquivo_nao_encontrado,42,1.24
+2026-01-17 18:48:47,envio_email_cobranca,Varejo Online SA,sucesso,,13,0.0
+2026-01-17 20:36:15,sincronizacao_crm,Farmácia Saúde Total,sucesso,,13,0.0
+2026-01-17 21:01:00,atualizacao_cadastro_clientes,Indústria Metalplas,sucesso,,9,0.0
+2026-01-17 21:17:02,importacao_nf_fiscal,Clínica Bem Estar,sucesso,,42,0.0
+2026-01-17 22:26:06,relatorio_mensal_clientes,Construtora Horizonte,sucesso,,13,0.0
+2026-01-17 22:46:17,atualizacao_cadastro_clientes,Farmácia Saúde Total,falha,campo_obrigatorio_vazio,107,2.1
+2026-01-17 22:47:22,relatorio_mensal_clientes,Construtora Horizonte,sucesso,,12,0.0
+2026-01-18 07:36:41,monitoramento_sla,Varejo Online SA,sucesso,,35,0.0
+2026-01-18 08:06:49,sincronizacao_crm,Clínica Bem Estar,sucesso,,18,0.0
+2026-01-18 08:07:53,envio_email_cobranca,Farmácia Saúde Total,sucesso,,37,0.0
+2026-01-18 08:19:02,importacao_nf_fiscal,Construtora Horizonte,sucesso,,14,0.0
+2026-01-18 09:00:06,geracao_proposta_comercial,Distribuidora Sul,sucesso,,41,0.0
+2026-01-18 09:51:55,atualizacao_cadastro_clientes,Distribuidora Sul,sucesso,,20,0.0
+2026-01-18 10:45:27,monitoramento_sla,Construtora Horizonte,sucesso,,38,0.0
+2026-01-18 11:59:47,sincronizacao_crm,Indústria Metalplas,falha,limite_api_atingido,23,1.79
+2026-01-18 12:29:06,envio_email_cobranca,Farmácia Saúde Total,falha,erro_formato_dados,53,2.56
+2026-01-18 12:33:30,exportacao_dados_erp,Logística Express,falha,credencial_expirada,95,1.49
+2026-01-18 12:37:34,envio_email_cobranca,Clínica Bem Estar,sucesso,,9,0.0
+2026-01-18 13:28:23,monitoramento_sla,Logística Express,sucesso,,45,0.0
+2026-01-18 13:36:33,envio_email_cobranca,Clínica Bem Estar,sucesso,,16,0.0
+2026-01-18 14:19:17,conciliacao_bancaria,Distribuidora Sul,falha,timeout_conexao,58,1.41
+2026-01-18 15:20:38,sincronizacao_crm,Logística Express,sucesso,,33,0.0
+2026-01-18 16:18:47,conciliacao_bancaria,Indústria Metalplas,sucesso,,28,0.0
+2026-01-18 18:00:45,sincronizacao_crm,Distribuidora Sul,sucesso,,12,0.0
+2026-01-18 18:01:47,envio_relatorio_gerencial,Distribuidora Sul,sucesso,,35,0.0
+2026-01-18 18:17:52,monitoramento_sla,Farmácia Saúde Total,sucesso,,44,0.0
+2026-01-18 18:34:32,monitoramento_sla,Indústria Metalplas,falha,campo_obrigatorio_vazio,49,2.71
+2026-01-18 18:51:55,exportacao_dados_erp,Logística Express,sucesso,,16,0.0
+2026-01-18 19:43:31,envio_email_cobranca,Clínica Bem Estar,sucesso,,24,0.0
+2026-01-18 20:14:51,monitoramento_sla,Clínica Bem Estar,sucesso,,35,0.0
+2026-01-18 20:45:13,conciliacao_bancaria,Varejo Online SA,falha,credencial_expirada,91,2.5
+2026-01-18 21:50:04,exportacao_dados_erp,Farmácia Saúde Total,sucesso,,39,0.0
+2026-01-18 22:09:22,relatorio_mensal_clientes,Logística Express,sucesso,,34,0.0
+2026-01-19 07:55:22,relatorio_mensal_clientes,Logística Express,sucesso,,32,0.0
+2026-01-19 08:40:50,importacao_nf_fiscal,Logística Express,sucesso,,25,0.0
+2026-01-19 09:16:42,conciliacao_bancaria,Indústria Metalplas,sucesso,,28,0.0
+2026-01-19 10:36:40,geracao_proposta_comercial,Clínica Bem Estar,sucesso,,36,0.0
+2026-01-19 11:31:18,envio_email_cobranca,Distribuidora Sul,sucesso,,36,0.0
+2026-01-19 11:31:40,atualizacao_cadastro_clientes,Clínica Bem Estar,sucesso,,19,0.0
+2026-01-19 11:39:08,sincronizacao_crm,Varejo Online SA,sucesso,,11,0.0
+2026-01-19 11:52:43,geracao_proposta_comercial,Indústria Metalplas,sucesso,,16,0.0
+2026-01-19 12:27:06,sincronizacao_crm,Farmácia Saúde Total,sucesso,,10,0.0
+2026-01-19 13:09:45,exportacao_dados_erp,Varejo Online SA,falha,credencial_expirada,110,1.33
+2026-01-19 13:13:51,envio_relatorio_gerencial,Clínica Bem Estar,sucesso,,35,0.0
+2026-01-19 15:02:17,sincronizacao_crm,Indústria Metalplas,sucesso,,37,0.0
+2026-01-19 15:36:17,atualizacao_cadastro_clientes,Clínica Bem Estar,sucesso,,16,0.0
+2026-01-19 16:07:15,geracao_proposta_comercial,Construtora Horizonte,sucesso,,17,0.0
+2026-01-19 17:29:31,exportacao_dados_erp,Indústria Metalplas,falha,credencial_expirada,102,0.51
+2026-01-19 17:34:17,envio_relatorio_gerencial,Indústria Metalplas,sucesso,,26,0.0
+2026-01-19 17:34:52,relatorio_mensal_clientes,Varejo Online SA,sucesso,,42,0.0
+2026-01-19 18:39:25,envio_relatorio_gerencial,Construtora Horizonte,sucesso,,37,0.0
+2026-01-19 19:58:03,geracao_proposta_comercial,Varejo Online SA,sucesso,,16,0.0
+2026-01-19 20:16:22,importacao_nf_fiscal,Logística Express,sucesso,,15,0.0
+2026-01-19 20:40:42,exportacao_dados_erp,Varejo Online SA,falha,timeout_conexao,71,0.85
+2026-01-19 21:10:05,envio_relatorio_gerencial,Construtora Horizonte,sucesso,,22,0.0
+2026-01-19 21:35:32,importacao_nf_fiscal,Indústria Metalplas,falha,timeout_conexao,102,2.51
+2026-01-19 22:24:26,envio_relatorio_gerencial,Distribuidora Sul,sucesso,,35,0.0
+2026-01-19 22:41:31,monitoramento_sla,Clínica Bem Estar,sucesso,,36,0.0
+2026-01-20 06:27:12,envio_email_cobranca,Clínica Bem Estar,sucesso,,25,0.0
+2026-01-20 06:37:04,relatorio_mensal_clientes,Farmácia Saúde Total,sucesso,,11,0.0
+2026-01-20 07:06:40,conciliacao_bancaria,Construtora Horizonte,falha,credencial_expirada,112,1.46
+2026-01-20 07:25:40,geracao_proposta_comercial,Clínica Bem Estar,sucesso,,22,0.0
+2026-01-20 08:40:34,atualizacao_cadastro_clientes,Indústria Metalplas,sucesso,,13,0.0
+2026-01-20 08:41:23,geracao_proposta_comercial,Construtora Horizonte,sucesso,,18,0.0
+2026-01-20 09:20:23,geracao_proposta_comercial,Distribuidora Sul,sucesso,,16,0.0
+2026-01-20 10:04:33,envio_relatorio_gerencial,Construtora Horizonte,sucesso,,18,0.0
+2026-01-20 10:36:54,conciliacao_bancaria,Varejo Online SA,sucesso,,11,0.0
+2026-01-20 12:31:17,exportacao_dados_erp,Varejo Online SA,sucesso,,43,0.0
+2026-01-20 13:35:38,envio_relatorio_gerencial,Clínica Bem Estar,sucesso,,9,0.0
+2026-01-20 15:05:32,sincronizacao_crm,Varejo Online SA,falha,limite_api_atingido,44,1.86
+2026-01-20 15:13:33,envio_relatorio_gerencial,Indústria Metalplas,sucesso,,33,0.0
+2026-01-20 15:41:03,sincronizacao_crm,Logística Express,sucesso,,23,0.0
+2026-01-20 17:27:20,envio_email_cobranca,Distribuidora Sul,sucesso,,13,0.0
+2026-01-20 17:59:20,envio_email_cobranca,Logística Express,sucesso,,44,0.0
+2026-01-20 18:32:18,atualizacao_cadastro_clientes,Varejo Online SA,sucesso,,33,0.0
+2026-01-20 19:23:34,envio_email_cobranca,Varejo Online SA,sucesso,,12,0.0
+2026-01-20 19:41:05,importacao_nf_fiscal,Construtora Horizonte,falha,erro_formato_dados,12,1.88
+2026-01-20 19:44:08,conciliacao_bancaria,Construtora Horizonte,falha,servidor_indisponivel,14,2.47
+2026-01-20 20:22:46,sincronizacao_crm,Clínica Bem Estar,sucesso,,34,0.0
+2026-01-20 20:55:13,importacao_nf_fiscal,Construtora Horizonte,falha,timeout_conexao,18,2.26
+2026-01-20 21:40:38,importacao_nf_fiscal,Indústria Metalplas,sucesso,,8,0.0
+2026-01-20 22:43:28,relatorio_mensal_clientes,Construtora Horizonte,sucesso,,15,0.0
+2026-01-21 06:21:00,monitoramento_sla,Varejo Online SA,sucesso,,27,0.0
+2026-01-21 06:23:12,geracao_proposta_comercial,Indústria Metalplas,sucesso,,23,0.0
+2026-01-21 07:11:14,atualizacao_cadastro_clientes,Construtora Horizonte,sucesso,,12,0.0
+2026-01-21 07:15:05,monitoramento_sla,Construtora Horizonte,sucesso,,11,0.0
+2026-01-21 07:35:51,monitoramento_sla,Distribuidora Sul,sucesso,,34,0.0
+2026-01-21 08:12:08,envio_relatorio_gerencial,Construtora Horizonte,sucesso,,18,0.0
+2026-01-21 08:19:44,monitoramento_sla,Clínica Bem Estar,sucesso,,23,0.0
+2026-01-21 08:31:29,atualizacao_cadastro_clientes,Farmácia Saúde Total,falha,limite_api_atingido,112,0.71
+2026-01-21 09:13:33,sincronizacao_crm,Logística Express,sucesso,,11,0.0
+2026-01-21 09:32:08,monitoramento_sla,Construtora Horizonte,sucesso,,11,0.0
+2026-01-21 10:45:17,importacao_nf_fiscal,Construtora Horizonte,sucesso,,41,0.0
+2026-01-21 11:16:49,importacao_nf_fiscal,Indústria Metalplas,sucesso,,15,0.0
+2026-01-21 11:23:08,geracao_proposta_comercial,Clínica Bem Estar,sucesso,,9,0.0
+2026-01-21 13:02:30,exportacao_dados_erp,Logística Express,sucesso,,19,0.0
+2026-01-21 13:09:00,monitoramento_sla,Construtora Horizonte,sucesso,,30,0.0
+2026-01-21 13:47:32,relatorio_mensal_clientes,Construtora Horizonte,sucesso,,8,0.0
+2026-01-21 15:42:47,envio_email_cobranca,Construtora Horizonte,falha,campo_obrigatorio_vazio,20,0.28
+2026-01-21 15:52:45,envio_relatorio_gerencial,Construtora Horizonte,sucesso,,28,0.0
+2026-01-21 16:17:52,importacao_nf_fiscal,Indústria Metalplas,sucesso,,40,0.0
+2026-01-21 16:51:27,geracao_proposta_comercial,Indústria Metalplas,sucesso,,44,0.0
+2026-01-21 18:44:53,exportacao_dados_erp,Farmácia Saúde Total,sucesso,,22,0.0
+2026-01-21 19:42:08,sincronizacao_crm,Farmácia Saúde Total,sucesso,,28,0.0
+2026-01-21 19:44:57,exportacao_dados_erp,Logística Express,sucesso,,13,0.0
+2026-01-21 20:19:29,geracao_proposta_comercial,Varejo Online SA,sucesso,,18,0.0
+2026-01-21 20:23:37,conciliacao_bancaria,Varejo Online SA,sucesso,,42,0.0
+2026-01-21 20:29:20,monitoramento_sla,Construtora Horizonte,sucesso,,21,0.0
+2026-01-21 20:55:18,geracao_proposta_comercial,Farmácia Saúde Total,sucesso,,37,0.0
+2026-01-21 21:22:33,atualizacao_cadastro_clientes,Varejo Online SA,sucesso,,24,0.0
+2026-01-22 06:03:53,sincronizacao_crm,Distribuidora Sul,sucesso,,33,0.0
+2026-01-22 06:04:12,conciliacao_bancaria,Varejo Online SA,falha,timeout_conexao,118,0.59
+2026-01-22 06:20:38,sincronizacao_crm,Construtora Horizonte,sucesso,,25,0.0
+2026-01-22 06:24:50,exportacao_dados_erp,Logística Express,sucesso,,39,0.0
+2026-01-22 06:45:44,exportacao_dados_erp,Indústria Metalplas,sucesso,,44,0.0
+2026-01-22 07:51:30,atualizacao_cadastro_clientes,Farmácia Saúde Total,sucesso,,22,0.0
+2026-01-22 08:45:15,exportacao_dados_erp,Logística Express,sucesso,,27,0.0
+2026-01-22 11:06:15,sincronizacao_crm,Farmácia Saúde Total,sucesso,,11,0.0
+2026-01-22 11:15:37,exportacao_dados_erp,Varejo Online SA,sucesso,,30,0.0
+2026-01-22 12:41:56,atualizacao_cadastro_clientes,Distribuidora Sul,sucesso,,42,0.0
+2026-01-22 12:53:51,conciliacao_bancaria,Indústria Metalplas,sucesso,,39,0.0
+2026-01-22 13:06:29,importacao_nf_fiscal,Varejo Online SA,sucesso,,15,0.0
+2026-01-22 13:36:54,monitoramento_sla,Farmácia Saúde Total,sucesso,,19,0.0
+2026-01-22 14:17:28,envio_email_cobranca,Construtora Horizonte,sucesso,,23,0.0
+2026-01-22 14:52:11,relatorio_mensal_clientes,Logística Express,sucesso,,43,0.0
+2026-01-22 15:31:26,atualizacao_cadastro_clientes,Logística Express,falha,credencial_expirada,38,0.63
+2026-01-22 17:43:40,importacao_nf_fiscal,Indústria Metalplas,sucesso,,12,0.0
+2026-01-22 17:58:36,atualizacao_cadastro_clientes,Farmácia Saúde Total,sucesso,,19,0.0
+2026-01-22 20:03:10,envio_relatorio_gerencial,Logística Express,sucesso,,33,0.0
+2026-01-22 21:01:24,monitoramento_sla,Distribuidora Sul,sucesso,,19,0.0
+2026-01-23 07:11:38,exportacao_dados_erp,Varejo Online SA,sucesso,,22,0.0
+2026-01-23 08:03:14,envio_relatorio_gerencial,Distribuidora Sul,falha,timeout_conexao,64,1.16
+2026-01-23 09:53:30,envio_relatorio_gerencial,Clínica Bem Estar,sucesso,,22,0.0
+2026-01-23 09:59:31,envio_email_cobranca,Farmácia Saúde Total,sucesso,,23,0.0
+2026-01-23 10:11:46,relatorio_mensal_clientes,Clínica Bem Estar,sucesso,,33,0.0
+2026-01-23 10:37:45,envio_email_cobranca,Varejo Online SA,sucesso,,41,0.0
+2026-01-23 11:28:04,relatorio_mensal_clientes,Farmácia Saúde Total,falha,timeout_conexao,36,0.45
+2026-01-23 11:56:24,envio_email_cobranca,Clínica Bem Estar,falha,timeout_conexao,117,1.18
+2026-01-23 11:56:26,conciliacao_bancaria,Logística Express,sucesso,,32,0.0
+2026-01-23 12:51:08,exportacao_dados_erp,Clínica Bem Estar,falha,timeout_conexao,105,0.41
+2026-01-23 13:42:37,envio_email_cobranca,Logística Express,sucesso,,26,0.0
+2026-01-23 14:50:06,relatorio_mensal_clientes,Construtora Horizonte,sucesso,,34,0.0
+2026-01-23 16:08:10,monitoramento_sla,Varejo Online SA,sucesso,,39,0.0
+2026-01-23 16:11:45,atualizacao_cadastro_clientes,Clínica Bem Estar,sucesso,,30,0.0
+2026-01-23 17:04:23,monitoramento_sla,Indústria Metalplas,sucesso,,27,0.0
+2026-01-23 17:20:10,importacao_nf_fiscal,Varejo Online SA,sucesso,,29,0.0
+2026-01-23 20:00:16,sincronizacao_crm,Distribuidora Sul,sucesso,,30,0.0
+2026-01-23 21:45:01,monitoramento_sla,Clínica Bem Estar,sucesso,,35,0.0
+2026-01-24 07:06:21,sincronizacao_crm,Distribuidora Sul,sucesso,,43,0.0
+2026-01-24 07:09:48,importacao_nf_fiscal,Construtora Horizonte,sucesso,,42,0.0
+2026-01-24 07:32:36,atualizacao_cadastro_clientes,Varejo Online SA,sucesso,,17,0.0
+2026-01-24 08:30:54,importacao_nf_fiscal,Farmácia Saúde Total,sucesso,,38,0.0
+2026-01-24 09:48:28,envio_email_cobranca,Distribuidora Sul,sucesso,,20,0.0
+2026-01-24 09:59:06,envio_relatorio_gerencial,Varejo Online SA,sucesso,,26,0.0
+2026-01-24 10:02:27,importacao_nf_fiscal,Clínica Bem Estar,sucesso,,17,0.0
+2026-01-24 11:23:56,monitoramento_sla,Farmácia Saúde Total,sucesso,,10,0.0
+2026-01-24 14:20:58,importacao_nf_fiscal,Construtora Horizonte,sucesso,,33,0.0
+2026-01-24 14:28:29,geracao_proposta_comercial,Distribuidora Sul,sucesso,,44,0.0
+2026-01-24 14:42:18,geracao_proposta_comercial,Distribuidora Sul,sucesso,,33,0.0
+2026-01-24 16:54:17,atualizacao_cadastro_clientes,Logística Express,sucesso,,8,0.0
+2026-01-24 17:56:26,geracao_proposta_comercial,Logística Express,sucesso,,44,0.0
+2026-01-24 19:48:37,sincronizacao_crm,Indústria Metalplas,falha,timeout_conexao,52,1.4
+2026-01-24 21:02:11,geracao_proposta_comercial,Logística Express,sucesso,,33,0.0
+2026-01-24 21:09:03,exportacao_dados_erp,Construtora Horizonte,sucesso,,26,0.0
+2026-01-24 21:12:06,relatorio_mensal_clientes,Distribuidora Sul,sucesso,,26,0.0
+2026-01-24 21:36:56,sincronizacao_crm,Logística Express,sucesso,,33,0.0
+2026-01-24 21:57:42,geracao_proposta_comercial,Construtora Horizonte,sucesso,,32,0.0
+2026-01-24 22:50:26,importacao_nf_fiscal,Logística Express,falha,timeout_conexao,75,1.85
+2026-01-25 06:14:16,envio_relatorio_gerencial,Varejo Online SA,sucesso,,25,0.0
+2026-01-25 06:15:23,conciliacao_bancaria,Indústria Metalplas,sucesso,,38,0.0
+2026-01-25 06:55:49,relatorio_mensal_clientes,Logística Express,sucesso,,19,0.0
+2026-01-25 07:15:02,conciliacao_bancaria,Construtora Horizonte,sucesso,,20,0.0
+2026-01-25 09:55:14,envio_email_cobranca,Farmácia Saúde Total,sucesso,,36,0.0
+2026-01-25 13:41:14,sincronizacao_crm,Farmácia Saúde Total,sucesso,,40,0.0
+2026-01-25 14:23:52,conciliacao_bancaria,Indústria Metalplas,sucesso,,15,0.0
+2026-01-25 15:01:24,relatorio_mensal_clientes,Distribuidora Sul,sucesso,,21,0.0
+2026-01-25 15:43:33,envio_relatorio_gerencial,Logística Express,sucesso,,8,0.0
+2026-01-25 16:17:46,monitoramento_sla,Indústria Metalplas,sucesso,,20,0.0
+2026-01-25 17:01:21,geracao_proposta_comercial,Farmácia Saúde Total,sucesso,,39,0.0
+2026-01-25 17:22:10,geracao_proposta_comercial,Clínica Bem Estar,sucesso,,13,0.0
+2026-01-25 17:52:03,atualizacao_cadastro_clientes,Varejo Online SA,sucesso,,27,0.0
+2026-01-25 18:56:56,exportacao_dados_erp,Clínica Bem Estar,falha,timeout_conexao,98,2.78
+2026-01-25 19:57:24,exportacao_dados_erp,Logística Express,sucesso,,37,0.0
+2026-01-25 20:13:58,monitoramento_sla,Clínica Bem Estar,sucesso,,41,0.0
+2026-01-25 22:25:08,atualizacao_cadastro_clientes,Indústria Metalplas,falha,servidor_indisponivel,27,0.8
+2026-01-25 22:42:53,exportacao_dados_erp,Indústria Metalplas,sucesso,,26,0.0
+2026-01-26 06:41:31,geracao_proposta_comercial,Farmácia Saúde Total,sucesso,,33,0.0
+2026-01-26 06:57:20,atualizacao_cadastro_clientes,Distribuidora Sul,falha,campo_obrigatorio_vazio,3,2.27
+2026-01-26 07:51:54,envio_relatorio_gerencial,Logística Express,sucesso,,16,0.0
+2026-01-26 08:08:39,monitoramento_sla,Clínica Bem Estar,sucesso,,35,0.0
+2026-01-26 08:30:56,sincronizacao_crm,Indústria Metalplas,falha,limite_api_atingido,90,1.71
+2026-01-26 08:31:21,envio_email_cobranca,Farmácia Saúde Total,sucesso,,8,0.0
+2026-01-26 09:30:04,exportacao_dados_erp,Farmácia Saúde Total,sucesso,,25,0.0
+2026-01-26 11:04:52,relatorio_mensal_clientes,Farmácia Saúde Total,sucesso,,37,0.0
+2026-01-26 11:18:06,conciliacao_bancaria,Distribuidora Sul,sucesso,,43,0.0
+2026-01-26 11:43:57,exportacao_dados_erp,Clínica Bem Estar,falha,servidor_indisponivel,48,2.3
+2026-01-26 13:44:56,exportacao_dados_erp,Farmácia Saúde Total,falha,credencial_expirada,52,1.87
+2026-01-26 14:41:45,geracao_proposta_comercial,Distribuidora Sul,sucesso,,23,0.0
+2026-01-26 15:26:50,exportacao_dados_erp,Farmácia Saúde Total,sucesso,,26,0.0
+2026-01-26 16:46:45,sincronizacao_crm,Clínica Bem Estar,sucesso,,38,0.0
+2026-01-26 17:32:19,envio_email_cobranca,Varejo Online SA,sucesso,,43,0.0
+2026-01-26 18:47:02,envio_relatorio_gerencial,Clínica Bem Estar,sucesso,,20,0.0
+2026-01-26 19:03:55,envio_email_cobranca,Distribuidora Sul,sucesso,,29,0.0
+2026-01-26 19:36:57,conciliacao_bancaria,Distribuidora Sul,sucesso,,19,0.0
+2026-01-26 20:17:13,envio_email_cobranca,Indústria Metalplas,sucesso,,39,0.0
+2026-01-26 20:54:07,conciliacao_bancaria,Construtora Horizonte,sucesso,,45,0.0
+2026-01-26 21:24:00,relatorio_mensal_clientes,Indústria Metalplas,sucesso,,31,0.0
+2026-01-26 22:38:33,exportacao_dados_erp,Logística Express,sucesso,,16,0.0
+2026-01-27 06:14:14,envio_email_cobranca,Distribuidora Sul,sucesso,,45,0.0
+2026-01-27 06:55:43,envio_email_cobranca,Logística Express,sucesso,,15,0.0
+2026-01-27 07:42:06,relatorio_mensal_clientes,Construtora Horizonte,sucesso,,34,0.0
+2026-01-27 07:54:18,exportacao_dados_erp,Varejo Online SA,sucesso,,35,0.0
+2026-01-27 09:06:54,relatorio_mensal_clientes,Construtora Horizonte,sucesso,,18,0.0
+2026-01-27 09:08:44,relatorio_mensal_clientes,Varejo Online SA,sucesso,,34,0.0
+2026-01-27 12:44:43,relatorio_mensal_clientes,Farmácia Saúde Total,sucesso,,14,0.0
+2026-01-27 12:49:16,atualizacao_cadastro_clientes,Distribuidora Sul,sucesso,,34,0.0
+2026-01-27 14:41:14,conciliacao_bancaria,Farmácia Saúde Total,falha,credencial_expirada,9,2.49
+2026-01-27 15:10:02,atualizacao_cadastro_clientes,Logística Express,sucesso,,38,0.0
+2026-01-27 16:11:07,monitoramento_sla,Logística Express,sucesso,,25,0.0
+2026-01-27 16:15:00,relatorio_mensal_clientes,Clínica Bem Estar,sucesso,,15,0.0
+2026-01-27 16:22:57,conciliacao_bancaria,Indústria Metalplas,falha,credencial_expirada,96,1.27
+2026-01-27 18:44:54,conciliacao_bancaria,Varejo Online SA,sucesso,,18,0.0
+2026-01-27 18:56:40,geracao_proposta_comercial,Varejo Online SA,sucesso,,11,0.0
+2026-01-27 19:28:02,importacao_nf_fiscal,Farmácia Saúde Total,sucesso,,8,0.0
+2026-01-27 20:24:07,atualizacao_cadastro_clientes,Farmácia Saúde Total,sucesso,,17,0.0
+2026-01-27 21:09:05,atualizacao_cadastro_clientes,Construtora Horizonte,sucesso,,14,0.0
+2026-01-27 21:22:48,sincronizacao_crm,Distribuidora Sul,sucesso,,33,0.0
+2026-01-27 21:51:36,conciliacao_bancaria,Distribuidora Sul,sucesso,,30,0.0
+2026-01-27 22:10:07,exportacao_dados_erp,Clínica Bem Estar,sucesso,,10,0.0
+2026-01-27 22:17:39,envio_relatorio_gerencial,Clínica Bem Estar,sucesso,,14,0.0
+2026-01-27 22:46:39,importacao_nf_fiscal,Farmácia Saúde Total,falha,arquivo_nao_encontrado,16,0.8
+2026-01-28 06:06:25,monitoramento_sla,Construtora Horizonte,sucesso,,8,0.0
+2026-01-28 06:21:22,geracao_proposta_comercial,Indústria Metalplas,sucesso,,14,0.0
+2026-01-28 07:00:41,envio_email_cobranca,Indústria Metalplas,sucesso,,39,0.0
+2026-01-28 07:42:03,sincronizacao_crm,Farmácia Saúde Total,sucesso,,18,0.0
+2026-01-28 07:57:10,conciliacao_bancaria,Distribuidora Sul,sucesso,,34,0.0
+2026-01-28 08:50:38,envio_relatorio_gerencial,Clínica Bem Estar,sucesso,,40,0.0
+2026-01-28 09:16:39,sincronizacao_crm,Distribuidora Sul,falha,limite_api_atingido,112,0.84
+2026-01-28 09:24:42,envio_relatorio_gerencial,Indústria Metalplas,sucesso,,40,0.0
+2026-01-28 09:48:22,atualizacao_cadastro_clientes,Logística Express,sucesso,,34,0.0
+2026-01-28 09:49:57,conciliacao_bancaria,Logística Express,sucesso,,40,0.0
+2026-01-28 10:31:00,atualizacao_cadastro_clientes,Clínica Bem Estar,falha,servidor_indisponivel,58,1.86
+2026-01-28 10:45:41,envio_email_cobranca,Indústria Metalplas,sucesso,,28,0.0
+2026-01-28 11:04:48,conciliacao_bancaria,Farmácia Saúde Total,falha,credencial_expirada,38,1.64
+2026-01-28 12:12:13,envio_relatorio_gerencial,Clínica Bem Estar,sucesso,,30,0.0
+2026-01-28 12:41:42,conciliacao_bancaria,Farmácia Saúde Total,sucesso,,11,0.0
+2026-01-28 12:45:21,importacao_nf_fiscal,Varejo Online SA,sucesso,,45,0.0
+2026-01-28 13:54:29,exportacao_dados_erp,Indústria Metalplas,sucesso,,38,0.0
+2026-01-28 15:28:51,envio_email_cobranca,Distribuidora Sul,sucesso,,40,0.0
+2026-01-28 15:53:44,atualizacao_cadastro_clientes,Varejo Online SA,sucesso,,43,0.0
+2026-01-28 15:56:54,monitoramento_sla,Varejo Online SA,falha,timeout_conexao,16,1.3
+2026-01-28 17:45:28,importacao_nf_fiscal,Construtora Horizonte,sucesso,,22,0.0
+2026-01-28 18:25:52,sincronizacao_crm,Construtora Horizonte,sucesso,,44,0.0
+2026-01-28 18:26:38,sincronizacao_crm,Farmácia Saúde Total,sucesso,,29,0.0
+2026-01-28 20:05:54,conciliacao_bancaria,Logística Express,sucesso,,39,0.0
+2026-01-28 21:22:42,monitoramento_sla,Distribuidora Sul,sucesso,,43,0.0
+2026-01-28 22:33:44,envio_relatorio_gerencial,Construtora Horizonte,sucesso,,23,0.0
+2026-01-28 22:49:47,envio_relatorio_gerencial,Clínica Bem Estar,sucesso,,29,0.0
+2026-01-28 22:49:58,envio_email_cobranca,Clínica Bem Estar,sucesso,,16,0.0
+2026-01-29 06:07:42,exportacao_dados_erp,Logística Express,falha,credencial_expirada,85,2.78
+2026-01-29 07:00:47,geracao_proposta_comercial,Distribuidora Sul,sucesso,,36,0.0
+2026-01-29 07:22:52,conciliacao_bancaria,Construtora Horizonte,sucesso,,43,0.0
+2026-01-29 07:59:24,monitoramento_sla,Logística Express,sucesso,,28,0.0
+2026-01-29 08:13:42,sincronizacao_crm,Varejo Online SA,sucesso,,14,0.0
+2026-01-29 10:01:29,exportacao_dados_erp,Construtora Horizonte,falha,servidor_indisponivel,9,2.43
+2026-01-29 10:59:20,envio_relatorio_gerencial,Construtora Horizonte,sucesso,,27,0.0
+2026-01-29 11:33:04,atualizacao_cadastro_clientes,Distribuidora Sul,sucesso,,42,0.0
+2026-01-29 12:18:28,envio_email_cobranca,Clínica Bem Estar,falha,campo_obrigatorio_vazio,25,1.66
+2026-01-29 12:34:53,monitoramento_sla,Clínica Bem Estar,sucesso,,12,0.0
+2026-01-29 13:02:43,exportacao_dados_erp,Logística Express,sucesso,,15,0.0
+2026-01-29 13:47:41,atualizacao_cadastro_clientes,Logística Express,sucesso,,26,0.0
+2026-01-29 13:58:40,exportacao_dados_erp,Varejo Online SA,sucesso,,20,0.0
+2026-01-29 14:00:21,conciliacao_bancaria,Clínica Bem Estar,sucesso,,10,0.0
+2026-01-29 14:09:53,relatorio_mensal_clientes,Clínica Bem Estar,sucesso,,21,0.0
+2026-01-29 17:18:13,envio_relatorio_gerencial,Indústria Metalplas,sucesso,,43,0.0
+2026-01-29 18:02:27,geracao_proposta_comercial,Indústria Metalplas,sucesso,,18,0.0
+2026-01-29 18:05:22,sincronizacao_crm,Distribuidora Sul,sucesso,,29,0.0
+2026-01-29 18:16:34,geracao_proposta_comercial,Construtora Horizonte,sucesso,,31,0.0
+2026-01-29 21:50:36,atualizacao_cadastro_clientes,Farmácia Saúde Total,falha,erro_formato_dados,93,1.69
+2026-01-29 22:05:06,envio_email_cobranca,Varejo Online SA,sucesso,,8,0.0
+2026-01-29 22:51:32,conciliacao_bancaria,Logística Express,falha,servidor_indisponivel,117,0.78
+2026-01-30 06:41:46,envio_relatorio_gerencial,Construtora Horizonte,sucesso,,45,0.0
+2026-01-30 07:44:54,importacao_nf_fiscal,Farmácia Saúde Total,sucesso,,14,0.0
+2026-01-30 08:18:42,importacao_nf_fiscal,Farmácia Saúde Total,falha,timeout_conexao,95,1.59
+2026-01-30 08:19:13,exportacao_dados_erp,Distribuidora Sul,sucesso,,40,0.0
+2026-01-30 08:36:52,sincronizacao_crm,Farmácia Saúde Total,sucesso,,36,0.0
+2026-01-30 08:53:17,envio_email_cobranca,Indústria Metalplas,sucesso,,12,0.0
+2026-01-30 08:57:01,atualizacao_cadastro_clientes,Clínica Bem Estar,falha,limite_api_atingido,77,1.36
+2026-01-30 09:11:42,envio_relatorio_gerencial,Varejo Online SA,falha,limite_api_atingido,99,1.52
+2026-01-30 10:07:02,relatorio_mensal_clientes,Indústria Metalplas,sucesso,,42,0.0
+2026-01-30 10:10:11,sincronizacao_crm,Indústria Metalplas,sucesso,,20,0.0
+2026-01-30 10:28:10,envio_email_cobranca,Indústria Metalplas,sucesso,,17,0.0
+2026-01-30 10:36:36,exportacao_dados_erp,Varejo Online SA,sucesso,,35,0.0
+2026-01-30 10:47:25,atualizacao_cadastro_clientes,Farmácia Saúde Total,sucesso,,17,0.0
+2026-01-30 11:00:20,sincronizacao_crm,Varejo Online SA,sucesso,,35,0.0
+2026-01-30 12:20:31,conciliacao_bancaria,Farmácia Saúde Total,sucesso,,27,0.0
+2026-01-30 12:58:02,atualizacao_cadastro_clientes,Farmácia Saúde Total,sucesso,,42,0.0
+2026-01-30 13:54:51,envio_relatorio_gerencial,Clínica Bem Estar,sucesso,,40,0.0
+2026-01-30 14:53:23,envio_email_cobranca,Clínica Bem Estar,sucesso,,38,0.0
+2026-01-30 15:08:29,atualizacao_cadastro_clientes,Indústria Metalplas,falha,limite_api_atingido,49,0.28
+2026-01-30 15:43:56,exportacao_dados_erp,Construtora Horizonte,sucesso,,43,0.0
+2026-01-30 15:50:43,geracao_proposta_comercial,Indústria Metalplas,sucesso,,36,0.0
+2026-01-30 16:22:08,sincronizacao_crm,Construtora Horizonte,sucesso,,12,0.0
+2026-01-30 18:25:52,relatorio_mensal_clientes,Logística Express,sucesso,,22,0.0
+2026-01-30 18:27:20,relatorio_mensal_clientes,Logística Express,sucesso,,42,0.0
+2026-01-30 20:28:22,geracao_proposta_comercial,Logística Express,sucesso,,19,0.0
+2026-01-30 21:41:49,envio_email_cobranca,Farmácia Saúde Total,sucesso,,45,0.0
+2026-01-31 06:36:33,importacao_nf_fiscal,Indústria Metalplas,falha,erro_formato_dados,86,2.14
+2026-01-31 06:56:46,geracao_proposta_comercial,Construtora Horizonte,sucesso,,38,0.0
+2026-01-31 06:57:49,monitoramento_sla,Indústria Metalplas,sucesso,,10,0.0
+2026-01-31 07:02:41,exportacao_dados_erp,Construtora Horizonte,sucesso,,41,0.0
+2026-01-31 07:10:16,envio_email_cobranca,Indústria Metalplas,sucesso,,44,0.0
+2026-01-31 09:01:12,atualizacao_cadastro_clientes,Varejo Online SA,sucesso,,34,0.0
+2026-01-31 09:27:08,geracao_proposta_comercial,Logística Express,sucesso,,13,0.0
+2026-01-31 10:11:10,exportacao_dados_erp,Indústria Metalplas,sucesso,,15,0.0
+2026-01-31 10:38:06,envio_email_cobranca,Logística Express,sucesso,,10,0.0
+2026-01-31 11:08:40,atualizacao_cadastro_clientes,Construtora Horizonte,sucesso,,17,0.0
+2026-01-31 11:39:42,atualizacao_cadastro_clientes,Farmácia Saúde Total,sucesso,,29,0.0
+2026-01-31 11:41:53,monitoramento_sla,Construtora Horizonte,sucesso,,16,0.0
+2026-01-31 12:33:58,exportacao_dados_erp,Logística Express,sucesso,,37,0.0
+2026-01-31 13:26:51,exportacao_dados_erp,Clínica Bem Estar,falha,timeout_conexao,89,1.57
+2026-01-31 14:53:47,geracao_proposta_comercial,Indústria Metalplas,sucesso,,19,0.0
+2026-01-31 15:38:56,atualizacao_cadastro_clientes,Logística Express,sucesso,,8,0.0
+2026-01-31 17:02:14,conciliacao_bancaria,Distribuidora Sul,falha,credencial_expirada,50,0.37
+2026-01-31 18:41:24,exportacao_dados_erp,Indústria Metalplas,sucesso,,12,0.0
+2026-01-31 20:10:14,importacao_nf_fiscal,Indústria Metalplas,sucesso,,21,0.0
+2026-01-31 20:38:37,importacao_nf_fiscal,Distribuidora Sul,sucesso,,16,0.0
+2026-01-31 21:10:14,monitoramento_sla,Indústria Metalplas,sucesso,,45,0.0
+2026-01-31 21:50:30,envio_relatorio_gerencial,Construtora Horizonte,sucesso,,16,0.0
+2026-01-31 22:16:24,sincronizacao_crm,Indústria Metalplas,sucesso,,30,0.0
+2026-01-31 22:27:14,conciliacao_bancaria,Varejo Online SA,sucesso,,30,0.0
+2026-01-31 22:48:07,importacao_nf_fiscal,Logística Express,sucesso,,42,0.0
