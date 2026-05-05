@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "time-ti"
+version = "0.1.0"
+description = "Analisador de logs de automacao da Trajetoria Consultoria"
+authors = ["Pedro Eckel"]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.15"
+pandas = "^2.2.3"
+google-genai = "^1.46.0"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
